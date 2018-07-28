@@ -1,2 +1,2 @@
 # uBitx
-Radio Firware for uBitx Transceiver
+Radio Firmware for uBitx Transceiver
